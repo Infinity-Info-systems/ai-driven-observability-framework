@@ -19,6 +19,14 @@ This repository helps teams define and manage:
 - financial platform observability
 - learning from incidents
 
+## How To Use This Repo
+
+1. Read the framework overview and observability architecture.
+2. Review the predictive reliability and anomaly detection models.
+3. Use the signal map to determine what to measure and alert on.
+4. Apply the templates for SLOs, incidents, and assessment reviews.
+5. Revisit the maturity model as the platform evolves.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -48,11 +56,3 @@ This repository helps teams define and manage:
 - [Bibliography](references/bibliography.md)
 - [SSRN Links](publications/ssrn-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the predictive signal map.
-3. Review the observability architecture and predictive reliability model.
-4. Use the templates to define signals, SLOs, and learning loops.
-5. Expand maturity and evidence content next.

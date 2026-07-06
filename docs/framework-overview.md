@@ -5,6 +5,7 @@
 This framework helps teams move from reactive monitoring to predictive observability.
 
 It combines reliability signals, anomaly detection, incident learning, and AI-assisted analysis so operational teams can respond earlier and learn faster.
+It gives the team a structured way to move from signals to decisions.
 
 ## What It Covers
 
@@ -32,6 +33,11 @@ It combines reliability signals, anomaly detection, incident learning, and AI-as
 - incident learning feeds back into engineering improvements
 - SLOs and SLIs are used to guide action
 - cost and reliability are considered together
+- signal outputs are validated against real incidents
+
+## Practical Use
+
+Use this framework when you need observability to act as an operational advantage rather than a reporting layer.
 
 ## Outputs
 

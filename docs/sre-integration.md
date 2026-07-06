@@ -11,6 +11,8 @@ SRE integration ensures observability supports service objectives, incident resp
 - error budget review
 - operational review
 - continuous improvement planning
+- incident learning
+- signal validation
 
 ## Operating Expectations
 
@@ -18,3 +20,7 @@ SRE integration ensures observability supports service objectives, incident resp
 - alerts should map to user impact or service risk
 - incidents should produce learning, not just closure
 - reliability data should influence planning
+
+## Outcome
+
+SRE integration should make observability useful for both day-to-day operations and longer-term reliability improvement.

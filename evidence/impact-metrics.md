@@ -7,6 +7,11 @@
 - alert noise ratio
 - predictive alert precision
 - incident recurrence rate
+- signal-to-action time
+
+## Reporting Notes
+
+Track these metrics against a baseline so the team can show whether observability is becoming more predictive and more useful.
 
 ## Reporting Notes
 

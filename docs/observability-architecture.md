@@ -13,6 +13,7 @@ The observability architecture defines how telemetry, signal processing, anomaly
 - alert routing
 - incident response
 - learning feedback
+- model validation
 
 ## Design Principles
 
@@ -29,3 +30,7 @@ The observability architecture defines how telemetry, signal processing, anomaly
 - service map
 - dashboard views
 - response playbooks
+
+## Design Outcome
+
+The architecture should make it easy to see what happened, why it happened, and what should happen next.

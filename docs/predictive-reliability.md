@@ -11,6 +11,7 @@ Predictive reliability uses telemetry and historical patterns to identify servic
 - capacity pressure
 - unusual cost or usage spikes
 - repeated incident precursors
+- correlated multi-signal patterns
 
 ## Operating Questions
 
@@ -25,3 +26,7 @@ Predictive reliability uses telemetry and historical patterns to identify servic
 - historical incident patterns
 - response effectiveness notes
 - false positive review results
+
+## Use
+
+Use this page to define which patterns deserve early intervention and which should be monitored further.

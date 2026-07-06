@@ -29,3 +29,7 @@
 - prediction is continuously tuned
 - response becomes more automated
 - observability and reliability improve together
+
+## Use Guidance
+
+Use this model to decide whether the observability practice is still collecting data or is already helping the team act earlier and better.

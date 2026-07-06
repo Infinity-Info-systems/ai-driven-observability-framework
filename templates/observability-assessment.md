@@ -13,6 +13,7 @@
 - anomaly detection
 - response workflow
 - learning loop
+- signal confidence
 
 ## Summary
 
@@ -20,3 +21,7 @@
 - gaps
 - risks
 - next steps
+
+## Use
+
+Use this template to summarize whether the observability practice is actionable enough to support predictive operations.

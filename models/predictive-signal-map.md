@@ -28,3 +28,8 @@ This map shows which signals should be watched to anticipate incidents or reliab
 
 - signals should be weighted by service criticality
 - action should be tied to the most reliable signal combinations
+- map should be updated when service behavior changes
+
+## Use
+
+Use this map to decide which combinations of signals are strong enough to predict real operational risk.

@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for AI-driven observability, predictive reliability, and incident learning.
 Use it to move quickly from architecture to the exact model or template needed for review.
+The order is arranged so readers move from the observability frame into models and then into practical artifacts.
 
 ## Entry Points
 
@@ -42,3 +43,4 @@ Use it to move quickly from architecture to the exact model or template needed f
 
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to extend.
 Keep the pages readable for operations teams and clear enough for finance-aware leadership review.
+If a page does not help detect, explain, or act on a service issue, move that detail into a more focused model or template.

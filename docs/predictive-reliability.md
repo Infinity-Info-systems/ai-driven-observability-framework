@@ -3,6 +3,7 @@
 ## Purpose
 
 Predictive reliability uses telemetry and historical patterns to identify service risk before it becomes an outage.
+It helps teams separate noise from early warning and decide what deserves intervention.
 
 ## What It Looks For
 
@@ -19,6 +20,10 @@ Predictive reliability uses telemetry and historical patterns to identify servic
 - Which anomalies should trigger escalation?
 - Which patterns should be auto-remediated?
 - How is prediction validated against real incidents?
+
+## Outcome
+
+Predictive reliability should help the team intervene sooner, with less guesswork and better confidence.
 
 ## Evidence To Collect
 

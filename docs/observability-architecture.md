@@ -34,3 +34,18 @@ The observability architecture defines how telemetry, signal processing, anomaly
 ## Design Outcome
 
 The architecture should make it easy to see what happened, why it happened, and what should happen next.
+
+## Architecture Table
+
+| Layer | Primary Function | Typical Output |
+| --- | --- | --- |
+| Collection | Capture telemetry | Service and platform signals |
+| Normalization | Make signals comparable | Common schema |
+| Correlation | Reduce noise | Related incident pattern |
+| Detection | Identify anomalies | Alert or prediction |
+| Response | Route action | Playbook or incident ticket |
+| Learning | Improve the system | Backlog item or model tuning |
+
+## Design Rule
+
+If a signal cannot be tied to a service outcome or decision, it should not be promoted to a first-class alert without a clear reason.

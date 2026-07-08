@@ -5,7 +5,17 @@
 This index organizes the repo into a front door for AI-driven observability, predictive reliability, and incident learning.
 Use it to move quickly from architecture to the exact model or template needed for review.
 The structure is arranged so readers move from the observability frame into models and then into practical artifacts.
-The order is arranged so readers move from the observability frame into models and then into practical artifacts.
+
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the operating model |
+| 2 | Observability Architecture | See how the signal pipeline works |
+| 3 | Predictive Reliability | Review how earlier action is enabled |
+| 4 | SRE Integration | Connect observability to service operations |
+| 5 | AI Anomaly Detection Model | Focus on signal interpretation |
+| 6 | Financial Platform Use Case | Tie observability to business value |
 
 ## Entry Points
 
@@ -45,4 +55,12 @@ The order is arranged so readers move from the observability frame into models a
 Use the same section structure as the other core repos so the ecosystem stays consistent and easy to extend.
 Keep the pages readable for operations teams and clear enough for finance-aware leadership review.
 If a page does not help detect, explain, or act on a service issue, move that detail into a more focused model or template.
-If a page does not help detect, explain, or act on a service issue, move that detail into a more focused model or template.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Understand the architecture | Observability Architecture |
+| Interpret anomalies | AI Anomaly Detection Model |
+| Connect to SRE | SRE Integration |
+| Connect to finance impact | Financial Platform Use Case |

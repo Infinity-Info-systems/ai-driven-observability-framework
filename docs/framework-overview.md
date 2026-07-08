@@ -9,6 +9,18 @@ It gives the team a structured way to move from signals to decisions.
 The framework is meant to reduce blind spots, not add more dashboards for their own sake.
 It is also intended to help the observability story show up clearly from the parent MCGR page and related ecosystem pages.
 
+## Operating Flow
+
+```mermaid
+flowchart LR
+    A["Telemetry"] --> B["Normalization"]
+    B --> C["Correlation"]
+    C --> D["Anomaly Detection"]
+    D --> E["Routing"]
+    E --> F["Incident Response"]
+    F --> G["Learning Loop"]
+```
+
 ## What It Covers
 
 - observability architecture
@@ -66,3 +78,13 @@ Use this framework when you need observability to act as an operational advantag
 - maturity model
 - incident learning template
 - executive reporting view
+
+## Observability Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Data | What was captured? | Telemetry inventory |
+| Signal | What changed? | Predictive signal map |
+| Action | What happens next? | Incident learning template |
+| Learning | What should improve? | Maturity model |
+| Business | Why does it matter? | Financial platform use case |

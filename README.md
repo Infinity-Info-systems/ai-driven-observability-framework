@@ -7,6 +7,7 @@ This repository contains an AI-driven observability and reliability model for mu
 It focuses on predictive incident detection, automated response, anomaly detection, and FinOps-aware operational intelligence.
 It is intended to help teams turn telemetry into earlier action and better reliability decisions.
 The goal is not just to see more, but to understand sooner what needs attention and why.
+The repository should also be easy to reference from the parent MCGR page so the observability library is visible as part of the larger ecosystem.
 
 ## Why It Matters
 
@@ -26,6 +27,13 @@ This repository helps teams define and manage:
 - earlier intervention with less noise
 - clearer prioritization of operational attention
 - stronger evidence for reliability and FinOps reviews
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [AI Governance Framework](../ai-governance-framework/README.md)
+- [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
 
 ## Content Model
 
@@ -62,6 +70,16 @@ This repository works best when the pages are grouped into three layers:
 ## Dashboards and Visuals
 
 - [Architecture Diagram](ai-observability.png)
+
+## Quick View
+
+| Observability Layer | What It Answers | Typical Artifact |
+| --- | --- | --- |
+| Signals | What changed first? | Predictive signal map |
+| Models | What pattern matters? | Reliability / anomaly model |
+| Actions | What should happen next? | Incident learning template |
+| Business impact | Why does it matter? | Financial platform use case |
+| Visualization | How do we explain it? | Architecture diagram |
 
 ## Templates
 

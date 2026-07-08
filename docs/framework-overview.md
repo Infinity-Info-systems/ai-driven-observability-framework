@@ -7,6 +7,7 @@ This framework helps teams move from reactive monitoring to predictive observabi
 It combines reliability signals, anomaly detection, incident learning, and AI-assisted analysis so operational teams can respond earlier and learn faster.
 It gives the team a structured way to move from signals to decisions.
 The framework is meant to reduce blind spots, not add more dashboards for their own sake.
+It is also intended to help the observability story show up clearly from the parent MCGR page and related ecosystem pages.
 
 ## What It Covers
 
@@ -35,6 +36,15 @@ The framework is meant to reduce blind spots, not add more dashboards for their 
 - SLOs and SLIs are used to guide action
 - cost and reliability are considered together
 - signal outputs are validated against real incidents
+
+## How To Read It
+
+Start with the framework overview, then move into observability architecture and predictive reliability.
+That sequence keeps the conversation centered on what is being measured before getting into how the signals are used.
+
+## Result
+
+The framework helps teams act earlier, explain the signal clearly, and connect observability to business and financial outcomes.
 
 ## How To Read It
 

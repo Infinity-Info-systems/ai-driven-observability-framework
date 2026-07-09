@@ -71,6 +71,11 @@ This repository works best when the pages are grouped into three layers:
 
 - [Architecture Diagram](ai-observability.png)
 
+## Code Direction
+
+This repo now includes a typed observability registry in `src/` so signals, actions, and learning loops can be reused in tools or future app pages.
+The code layer mirrors the observability flow, signal catalog, and decision rule described in the framework pages.
+
 ## Quick View
 
 | Observability Layer | What It Answers | Typical Artifact |
